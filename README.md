@@ -24,7 +24,7 @@ I'm passionate about learning new technologies and improving my development skil
 <h3>🎓 Education</h3>
 <ul>
   <li>M.Sc. Computer Science (Pursuing)</li>
-  <li>Bachelor’s Degree in Mathematics</li>
+  <li>Bachelor’s Degree in Computer Science</li>
 </ul>
 
 <hr>
@@ -60,7 +60,7 @@ I'm passionate about learning new technologies and improving my development skil
 
 <h3>📫 How to reach me</h3>
 <p>
-📧 Email: <b>harshitaswamy.work@gmail.com</b>
+📧 Email: <b>harshitaswamy.connect@gmail.com</b>
 </p>
 
 <hr>
